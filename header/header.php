@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <!-- header -->
 <div class="header" id="home">
 	<div class="container">
