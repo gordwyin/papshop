@@ -33,7 +33,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<li data-target="#myCarousel" data-slide-to="4" class=""></li> 
 		</ol>
 		<div class="carousel-inner" role="listbox">
-			<!--<div class="item active"> 
+			<div class="item active"> 
 				<div class="container">
 					<div class="carousel-caption">
 						<h3>Finde space  <span>for your products/ideas</span></h3>
@@ -41,7 +41,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<a class="hvr-outline-out button2" href="#.html">Find Space </a>
 						<a class="hvr-outline-out button2" href="sign-up/sign-up.php">List Space </a>
 					</div>
-				</div>-->
+				</div>
 			</div>
 			<div class="item item2"> 
 				<div class="container">
