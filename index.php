@@ -95,9 +95,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<!-- The Modal -->
     </div>
 	<div>
-		<h1>Discover & Book Temporary Spaces</h1>
+		<center> <h1>Discover & Book Temporary Spaces</h1>
 		<p>Papshops features temporary venues & stores in areas with traffic 
-		and visibility that your pop-up shop can maximum exposure.</p>
+			and visibility that your pop-up shop can maximum exposure.</p> </center>
 	</div>
 	<!-- schedule-bottom -->
 	<div class="schedule-bottom">
