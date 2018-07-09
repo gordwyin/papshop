@@ -94,7 +94,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</a>
 		<!-- The Modal -->
     </div>
-	<div><h1>Discover & Book Temporary Spaces</h1></div>
+	<div>Discover & Book Temporary Spaces</div>
 	<!-- schedule-bottom -->
 	<div class="schedule-bottom">
 		<div class="col-md-6 agileinfo_schedule_bottom_left">
