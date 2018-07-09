@@ -36,8 +36,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item active"> 
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>Finde space  <span>for your products/ideas</span></h3>
-						<p>Special for today</p>
+						<h3>Find space <span>for your products/ideas</span></h3>
+						<p>Discover and book temporary spaces</p>
 						<a class="hvr-outline-out button2" href="#.html">Find Space </a>
 						<a class="hvr-outline-out button2" href="sign-up/sign-up.php">List Space </a>
 					</div>
@@ -46,8 +46,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="item item2"> 
 				<div class="container">
 					<div class="carousel-caption">
-						<h3>We <span>connect you to spaces</span></h3>
-						<p>Both within and oustide Nairobi</p>
+						<h3>We <span>connect you to short-term rental spaces</span></h3>
+						<p>We are a network for brands and retailers</p>
 						<a class="hvr-outline-out button2" href="#.html">Find Space </a>
 						<a class="hvr-outline-out button2" href="sign-up/sign-up.php">List Space </a>
 					</div>
